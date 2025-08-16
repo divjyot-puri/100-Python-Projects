@@ -1,4 +1,4 @@
-**🎯 100 Days of Python Projects**
+**🎯 100 Python Projects**
 
 Welcome to my wild ride through legendary 100 Projects: Python Bootcamp!
 
