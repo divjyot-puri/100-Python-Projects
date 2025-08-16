@@ -1,8 +1,6 @@
-**🎯 100 Days of Python Projects**
+**🎯Python Projects**
 
-Welcome to my wild ride through legendary 100 Projects: Python Bootcamp!
-
-This repo is my playground, my workshop, and my personal growth tracker—all rolled into one. Every project here is a step forward in turning logic into magic and code into creation.
+Welcome to my playground, my workshop, and my personal growth tracker—all rolled into one. Every project here is a step forward in turning logic into magic and code into creation.
 
 **🎮 What’s Inside?**
 
@@ -40,4 +38,4 @@ I like building stuff that blends logic with elegance. Whether it’s simulating
 
 Found something cool here? Got ideas or feedback?
 
-Drop a star ⭐ or reach out—I'd love to hear from you!
+Drop a star ⭐ or reach out, I'd love to hear from you!
